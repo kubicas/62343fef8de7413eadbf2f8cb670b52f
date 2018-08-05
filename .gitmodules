@@ -1,0 +1,6 @@
+[submodule "comp/doc_todo"]
+	path = comp/doc_todo
+	url = https://github.com/kubicas/940d87dd75124ac891c20b636cd2eb21/
+[submodule "comp/flying_start"]
+	path = comp/flying_start
+	url = https://github.com/kubicas/b89de5ec43184f81b3a444c008e2de2c/
